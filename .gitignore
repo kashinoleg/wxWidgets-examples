@@ -1,0 +1,11 @@
+wxWidgets-examples/.vs/
+wxWidgets-examples/Debug/
+wxWidgets-examples/packages/
+wxWidgets-examples/x64/
+wxWidgets-examples/Release/
+wxWidgets-examples/HelloWorld/x64/
+wxWidgets-examples/HelloWorld/Release/
+wxWidgets-examples/HelloWorld/Debug/
+wxWidgets-examples/HelloWorld2/Debug/
+wxWidgets-examples/HelloWorld2/Release/
+wxWidgets-examples/HelloWorld2/x64/
